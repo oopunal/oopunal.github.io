@@ -5,7 +5,7 @@ date:   2017-01-7 17:50:00
 categories: main
 ---
 
-### Contents
+### Syllabus
 
 <table>
 <tr class="table-header">

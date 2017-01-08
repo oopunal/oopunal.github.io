@@ -46,7 +46,8 @@ public static void printCourseInformation(){
 
 > Computers can be used only if their use is related to the current class.
 
-> The 5% bonus over the final grade is related to the class assistance, the compilance of all activities and assisntance of or seminaries organized by the Colectivo de Investigación en Ingeniería de Software **ColSWE**.
+> The 5% bonus over the final grade is related to the class assistance, the compilance of all activities and assistance of seminaries organized by the Colectivo de Investigación en Ingeniería de Software **ColSWE**.
+
 
 ### Contents
 
