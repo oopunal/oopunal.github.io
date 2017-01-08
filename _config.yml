@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Object Oriented Programming
+tagline:      This is the page of the Object Orinted programming course at National University of Colombia. 2017-1
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Alejandro Velasco Dimate
+  url:        https://co.linkedin.com/in/sebastian-alejandro-velasco-dimate-226312101
 
 # Gems
 gems:
