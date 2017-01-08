@@ -2,6 +2,7 @@
 layout: default
 title: {{ site.name }}
 ---
+
 <!--
 <div id="home">
   <h1>Blog Posts</h1>
@@ -12,6 +13,7 @@ title: {{ site.name }}
   </ul>
 </div>
 -->
+
 ### Goals
 The aim of this course is to understand the paradigm of **Object Oriented Programming** through the **Java programming language**,   At the end of the course students will be able to:
  

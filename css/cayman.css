@@ -195,6 +195,7 @@ a {
     overflow: auto;
     word-break: normal;
     word-break: keep-all;
+    font-size: 0.9rem;
     -webkit-overflow-scrolling: touch; }
     .main-content table th {
       font-weight: bold; }
@@ -239,3 +240,10 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+.table-header{
+    background-color: deeppink;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
