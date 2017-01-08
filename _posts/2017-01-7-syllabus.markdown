@@ -5,7 +5,7 @@ date:   2017-01-7 17:50:00
 categories: main
 ---
 
-# Contents
+### Contents
 
 <table>
 <tr class="table-header">
@@ -247,8 +247,19 @@ categories: main
 <tr>
 <td>18</td>
 <td>May 29</td>
-<td>MAy 30</td>
+<td>May 30</td>
 <td>Design Patterns Introduction</td>
 <td>Appendix P. [Deitel]</td>
 </tr>
 </table>
+
+### References
+<ul style="font-size:0.8rem">
+<li>[Barker] J. Barker, Beginning Java Objects: From Concepts To Code, Second Edition, Apress, 2005.</li>
+<li>[McLaughlin] B.D. McLaughlin, G. Pollice, and D. West, Head First Object-Oriented Analysis and Design, O'Reilly Media, Inc., 2006.</li>
+<li>[Sierra] K. Sierra and B. Bates, Head First Java, 2nd Edition, O'Reilly Media, 2005.</li>
+<li>[Deitel] H.M. Deitel and P.J. Deitel, Java How to Program, Prentice Hall, 2007 - 7th ed.</li>
+<li>[Eckel] B. Eckel, Thinking in Java, Prentice Hall PTR, 2006. - 3rd ed. Available online.</li>
+<li>[Schach] S. Schach, Object-Oriented and Classical Software Engineering, McGraw-Hill Science/Engineering/Math, 2006.</li>
+<li>[Oracle] Java SE Tutorials, available at: http://download.oracle.com/javase/tutorial/index.html</li>
+</ul>
