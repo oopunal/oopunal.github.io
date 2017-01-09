@@ -5,4 +5,14 @@ date:   2017-01-7 17:50:00
 categories: main
 ---
 
-Notas
+### Grading rules
+
+|Item|Percentage|
+|:---:|:---:|
+|Assignments|20%|
+|Quizzes|10%|
+|First Exam|20%|
+|Second Exam|20%|
+|First Project Iteration|15%|
+|Second Project Iteration|15%|
+|Bonus (See Rules)|5%|
