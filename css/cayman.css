@@ -247,3 +247,49 @@ a {
     font-weight: bold;
     text-align: center;
 }
+.button-section-container{
+    text-align: center;
+    display: block;
+}
+.button-section{
+    margin: 5px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 4.5%;
+    font-size: 1.1rem;
+}.button-section:hover{
+    text-decoration: none;
+}
+.button-red{
+    color: white;
+    background-color: #953b45;
+}.button-red:hover{
+    background-color: #b84c57;
+}
+.button-blue{
+    color: white;
+    background-color: #5ebfb5;
+}.button-blue:hover{
+    background-color: #7ecbc3;
+}
+.button-yellow{
+    color: white;
+    background-color: #bfb55e;
+}.button-yellow:hover{
+    background-color: #cbc37e;
+}
+.button-green{
+    color: white;
+    background-color: #99bf5e;
+}.button-green:hover{
+    background-color: #adcb7e;
+}
+.button-purple{
+    color: white;
+    background-color: #845ebf;
+}.button-purple:hover{
+    background-color: #9c7ecb;
+}

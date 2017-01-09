@@ -49,9 +49,17 @@ public static void printCourseInformation(){
 > The 5% bonus over the final grade is related to the class assistance, the compilance of all activities and assistance of seminaries organized by the Colectivo de Investigación en Ingeniería de Software **ColSWE**.
 
 
-### Contents
+### Sections
+<div class= "button-section-container">
+<a class="button-section button-red" href="{{ site.baseurl }}{% link _posts/2017-01-7-syllabus.markdown %}">Syllabus</a>
+<a class="button-section button-blue" href="{{ site.baseurl }}{% link _posts/2017-01-7-assignments.markdown %}">Assignments</a>
+<a class="button-section button-yellow" href="{{ site.baseurl }}{% link _posts/2017-01-7-grades.markdown %}">Grades</a>
+<a class="button-section button-green" href="{{ site.baseurl }}{% link _posts/2017-01-7-resources.markdown %}">Resources</a>
+</div>
 
+<!--
 [Syllabus]({{ site.baseurl }}{% link _posts/2017-01-7-syllabus.markdown %})
 [Assignments]({{ site.baseurl }}{% link _posts/2017-01-7-assignments.markdown %})
 [Grades]({{ site.baseurl }}{% link _posts/2017-01-7-grades.markdown %})
 [Resources]({{ site.baseurl }}{% link _posts/2017-01-7-resources.markdown %})
+-->
