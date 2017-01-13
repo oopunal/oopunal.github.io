@@ -41,7 +41,7 @@ The aim of this course is to understand the paradigm of **Object Oriented Progra
 public static void printCourseInformation(){
     System.out.println("BE WELCOME FOLKS!!");
     /********************************************/
-    System.out.println("Lecturer");
+    System.out.println("Professor");
     System.out.println("Sebastian Alejandro Velasco Dimate");
     System.out.println("savelascod@unal.edu.co");
     /********************************************/
