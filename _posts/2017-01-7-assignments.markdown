@@ -25,11 +25,11 @@ Each week, students will have to resolve an assignment in order to apply and pra
 
 Please read carefully the general rules for the delivery of assignments:
 
-> If an assignment is delivered after the deadline, 1.0 points will be substracted to the total assignment grade for each day that elapse. 
+> If an assignment is delivered after the deadline, 1.0 points will be substracted to the total assignment grade for each day that elapses. 
 
-> All assignments must be delivered to **oopunal@gmail.com**, if an assigment is delivered to the wrong email, 0.5 points will be substracted to the total assignment grade.
+> All assignments must be sent to **oopunal@gmail.com**, if an assigment is delivered to the wrong email, 0.5 points will be substracted from the total assignment grade.
 
-> If an assignment is delivered with the wrong subject, 0.5 points will be substracted to the total assignment grade.
+> If an assignment is delivered with the wrong subject, 0.5 points will be substracted from the total assignment grade.
 
 > The body of the message for all assignments must contain a list with the names of the team members. 
 

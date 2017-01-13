@@ -14,6 +14,13 @@ title: {{ site.name }}
 </div>
 -->
 
+<div class= "button-section-container">
+<a class="button-section button-red" href="{{ site.baseurl }}{% link _posts/2017-01-7-syllabus.markdown %}">Syllabus</a>
+<a class="button-section button-blue" href="{{ site.baseurl }}{% link _posts/2017-01-7-assignments.markdown %}">Assignments</a>
+<a class="button-section button-yellow" href="{{ site.baseurl }}{% link _posts/2017-01-7-grades.markdown %}">Grades</a>
+<a class="button-section button-green" href="{{ site.baseurl }}{% link _posts/2017-01-7-resources.markdown %}">Resources</a>
+</div>
+
 ### Goals
 The aim of this course is to understand the paradigm of **Object Oriented Programming** through the **Java programming language**,   At the end of the course students will be able to:
  
@@ -25,7 +32,7 @@ The aim of this course is to understand the paradigm of **Object Oriented Progra
 
 ### Lectures
 
-|Group|Hour|Monday|Tuestday|Wednesday|Thursday|Friday|
+|Group|Hour|Monday|Tuesday|Wednesday|Thursday|Friday|
 ||:---:|:---:|:---:|:---:|:---:|:---:|
 |3|2-4 pm| | | | | |
 |9|4-6 pm| | | | | |
@@ -33,10 +40,17 @@ The aim of this course is to understand the paradigm of **Object Oriented Progra
 {% highlight java %}
 public static void printCourseInformation(){
     System.out.println("BE WELCOME FOLKS!!");
-    System.out.println("Lecturer" + "Sebastian Alejandro Velasco Dimate");
+    /********************************************/
+    System.out.println("Lecturer");
+    System.out.println("Sebastian Alejandro Velasco Dimate");
     System.out.println("savelascod@unal.edu.co");
+    /********************************************/
+    System.out.println("Teacher Assistant");
+    System.out.println("Gabriel David Aguirre Arias");
+    System.out.println("gdaguirrea@unal.edu.co")
 }
 {% endhighlight %}
+
 
 ### Rules
 
@@ -48,14 +62,6 @@ public static void printCourseInformation(){
 
 > The 5% bonus over the final grade is related to the class assistance, the compilance of all activities and assistance of seminaries organized by the Colectivo de Investigación en Ingeniería de Software **ColSWE**.
 
-
-### Sections
-<div class= "button-section-container">
-<a class="button-section button-red" href="{{ site.baseurl }}{% link _posts/2017-01-7-syllabus.markdown %}">Syllabus</a>
-<a class="button-section button-blue" href="{{ site.baseurl }}{% link _posts/2017-01-7-assignments.markdown %}">Assignments</a>
-<a class="button-section button-yellow" href="{{ site.baseurl }}{% link _posts/2017-01-7-grades.markdown %}">Grades</a>
-<a class="button-section button-green" href="{{ site.baseurl }}{% link _posts/2017-01-7-resources.markdown %}">Resources</a>
-</div>
 
 <!--
 [Syllabus]({{ site.baseurl }}{% link _posts/2017-01-7-syllabus.markdown %})

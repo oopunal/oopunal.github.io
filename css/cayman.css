@@ -254,13 +254,13 @@ a {
 }
 .button-section{
     margin: 5px;
-    width: 200px;
-    height: 100px;
+    width: 160px;
+    height: 80px;
     text-align: center;
     display: inline-block;
     border-radius: 15px;
-    padding: 4.5%;
-    font-size: 1.1rem;
+    padding: 3.5%;
+    font-size: 1rem;
 }.button-section:hover{
     text-decoration: none;
 }
