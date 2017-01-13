@@ -47,7 +47,7 @@ public static void printCourseInformation(){
     /********************************************/
     System.out.println("Teacher Assistant");
     System.out.println("Gabriel David Aguirre Arias");
-    System.out.println("gdaguirrea@unal.edu.co")
+    System.out.println("gdaguirrea@unal.edu.co");
 }
 {% endhighlight %}
 
