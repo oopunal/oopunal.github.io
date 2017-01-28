@@ -34,8 +34,8 @@ The aim of this course is to understand the paradigm of **Object Oriented Progra
 
 |Group|Hour|Monday|Tuesday|Wednesday|Thursday|Friday|
 ||:---:|:---:|:---:|:---:|:---:|:---:|
-|3|2-4 pm| | | | | |
-|9|4-6 pm| | | | | |
+|3|4-6 pm|401-103 PC | |401-103 PC| | |
+|9|2-4 pm| |401-303 PC| |401-204 PC| |
 
 {% highlight java %}
 public static void printCourseInformation(){
