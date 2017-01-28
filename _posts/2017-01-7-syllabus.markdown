@@ -19,7 +19,7 @@ categories: main
 <td>1</td>
 <td>January 30</td>
 <td>January 31 </td>
-<td>Presentation</td>
+<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaN0w2NS1KVGR5RnM/view?usp=sharing">Presentation</a></td>
 <td></td>
 </tr>
 <tr>
