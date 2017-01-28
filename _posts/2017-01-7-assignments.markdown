@@ -34,3 +34,5 @@ Please read carefully the general rules for the delivery of assignments:
 > The body of the message for all assignments must contain a list with the names of the team members. 
 
 > If two or more assignments are exactly the same (in one or more points), the total assignment grade for each team will be 0.0. 
+
+testing
