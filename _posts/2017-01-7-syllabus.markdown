@@ -26,7 +26,7 @@ categories: main
 <td>1</td>
 <td>February 1</td>
 <td>February 2</td>
-<td>Basic programming review</td>
+<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaeE9Idmt0TlFWeUU/view?usp=sharing">Basic programming review</a></td>
 <td></td>
 </tr>
 <tr>
