@@ -33,14 +33,14 @@ categories: main
 <td>2</td>
 <td>February 6</td>
 <td>February 7</td>
-<td>Java Basics</td>
+<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiaVkw2RVktdF9vTlk">Java Basics</a></td>
 <td>Chapter 2 [Deitel]<br>Chapter 1 [Sierra]</td>
 </tr>
 <tr>
 <td>2</td>
 <td>February 8</td>
 <td>February 9</td>
-<td>Java Basics</td>
+<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiad0lsS01JcGw0Mlk">Java Basics</a></td>
 <td></td>
 </tr>
 <tr>
