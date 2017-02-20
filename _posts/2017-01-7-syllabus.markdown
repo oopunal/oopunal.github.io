@@ -47,14 +47,17 @@ categories: main
 <td>3</td>
 <td>February 13</td>
 <td>February 14</td>
-<td>Objects &amp; Classes</td>
+<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaZTA0VzA5WHNYVGM/view?usp=sharing">Objects &amp; Classes</a></td>
 <td>Chapter 3 [Barker]<br>Chapter 8 Section 8.1-8.8 [Deitel]</td>
 </tr>
 <tr>
 <td>3</td>
 <td>February 15</td>
 <td>February 16</td>
-<td>Objects &amp; Classes</td>
+<td>
+<a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaQWNYSGdqRDlzdUE/view?usp=sharing">Objects &amp; Classes</a>
+<a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaWWJrNkxKNU1nZVU/view?usp=sharing">Project Specification</a>
+</td>
 <td></td>
 </tr>
 <tr>
