@@ -78,14 +78,14 @@ categories: main
 <td>5</td>
 <td>February 27</td>
 <td>February 28</td>
-<td>Relationships between objects</td>
+<td><a target="_blank" href="https://www.youtube.com/watch?v=fLDj3BPx0wk">Relationships between objects</a></td>
 <td>Chapter 7 [Sierra]<br>Chapter 5 [Barker]</td>
 </tr>
 <tr>
 <td>5</td>
 <td>March 1</td>
 <td>March 2</td>
-<td>Relationships between objects</td>
+<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiaeUhMR1RsVVIzX0U">Relationships between objects</a></td>
 <td></td>
 </tr>
 <tr>
