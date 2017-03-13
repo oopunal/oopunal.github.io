@@ -92,14 +92,16 @@ categories: main
 <td>6</td>
 <td>March 6</td>
 <td>March 7</td>
-<td>Collections</td>
+<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiabTQzYjViZlY2WEk">Collections</a></td>
 <td>Chapter 6 [Barker]</td>
 </tr>
 <tr>
 <td>6</td>
 <td>March 8</td>
 <td>March 9</td>
-<td>Collections</td>
+<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiaVWx0ZWRuZjV5Nk0">Collections</a>
+<a href="https://drive.google.com/open?id=0B6uYBzkBeRiac3EwN0lrdVFaejQ">PetStoreExample.zip</a>
+</td>
 <td></td>
 </tr>
 <tr>
