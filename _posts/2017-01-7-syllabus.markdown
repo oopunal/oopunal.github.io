@@ -108,14 +108,14 @@ categories: main
 <td>7</td>
 <td>March 13</td>
 <td>March 14</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaZElraUZHMWRHRGM" target="_blank"></a>Object Concepts</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaZElraUZHMWRHRGM" target="_blank">Object Concepts</a></td>
 <td>Chapter 7 [Barker]<br>Chapter 8 [Sierra]</td>
 </tr>
 <tr>
 <td>7</td>
 <td>March 15</td>
 <td>March 16</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzdnZUdlbk1COU0" target="_blank"></a>Object Concepts</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzdnZUdlbk1COU0" target="_blank">Object Concepts</a></td>
 <td></td>
 </tr>
 <tr>
