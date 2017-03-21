@@ -16,8 +16,8 @@ Each week, students will have to resolve an assignment in order to apply and pra
 |3|[Objects & Classes](https://drive.google.com/file/d/0B6uYBzkBeRiaODNjajNrSVdXdkk/view?usp=sharing)|20/02/2017|26/02/2017|4|[OOP0X] Assignments 03|
 |4|[Objects Interaction](https://drive.google.com/file/d/0B6uYBzkBeRiaRnNGSEFkVXZPLTA/view?usp=sharing) |27/02/17|8/03/17|4|[OOP0X] Assignments 04|
 |5|[Relationships between objects](https://drive.google.com/open?id=0B6uYBzkBeRiaWE1Hd3NKdnlFc3c)|8/03/2017|15/03/2017|4|[OOP0X] Assignments 05|
-|6|Collections |||1|[OOP0X] Assignments 06|
-|7|Object Concepts |||4|[OOP0X] Assignments 07|
+|6|Collections|null|null|1|[OOP0X] Assignments 06|
+|7|[Object Concepts - Collections](https://drive.google.com/open?id=0B6uYBzkBeRiaVUUyaVJyVW1Ha2M)|21/03/2017|2/04/2017|4|[OOP0X] Assignments 07|
 |8|Graphic User Interfaces (GUI)|||4|[OOP0X] Assignments 08|
 |9|Data Access Layer (DAL) |||4|[OOP0X] Assignments 09|
 |10|Exception Handling |||1|[OOP0X] Assignments 10|
