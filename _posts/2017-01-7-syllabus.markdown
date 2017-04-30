@@ -153,7 +153,7 @@ categories: main
 <td>10</td>
 <td>April 5</td>
 <td>April 6</td>
-<td>Graphic User Interfaces (GUI)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaY2xuaFQyRE0xYk0">Graphic User Interfaces (GUI)</a></td>
 <td>Chapter 11 [Deitell]</td>
 </tr>
 <tr>
@@ -172,29 +172,29 @@ categories: main
 <td>12</td>
 <td>April 17</td>
 <td>April 18</td>
-<td>Graphic User Interfaces (GUI)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiacU44czBMY191bUU">Graphic User Interfaces (GUI)</a></td>
 <td></td>
 </tr>
 <tr>
 <td>12</td>
 <td>April 19</td>
 <td>April 20</td>
-<td>Graphic User Interfaces (GUI)<br>
-<i>Swing Components Examples</i></td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzFESVE2S0V0ejA">Graphic User Interfaces (GUI)</a><br>
+<a href="https://drive.google.com/open?id=0B6uYBzkBeRiaaHE0RFV2WWFxSVk">Calculator Example</a></td>
 <td></td>
 </tr>
 <tr>
 <td>13</td>
 <td>April 24</td>
 <td>April 25</td>
-<td>Graphic User Interfaces (GUI)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzFESVE2S0V0ejA">Graphic User Interfaces (GUI)</a></td>
 <td>Chapter 12 [Deitel]</td>
 </tr>
 <tr>
 <td>13</td>
 <td>April 26</td>
 <td>April 27</td>
-<td>Data Access Layer (DAL)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiacS1kVmVURmRyWEE">Data Access Layer (DAL)</a></td>
 <td>Chapter 14 [Sierra]</td>
 </tr>
 <tr>
