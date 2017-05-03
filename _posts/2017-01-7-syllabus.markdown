@@ -172,7 +172,7 @@ categories: main
 <td>12</td>
 <td>April 17</td>
 <td>April 18</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiacU44czBMY191bUU">Graphic User Interfaces (GUI)</a></td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaY2xuaFQyRE0xYk0">Graphic User Interfaces (GUI)</a></td>
 <td></td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ categories: main
 <td>14</td>
 <td>May 1</td>
 <td>May 2</td>
-<td>Exception Handling</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaa21WQjhXOXV1blk">Exception Handling</a></td>
 <td>Chapter 13 [Deitel]</td>
 </tr>
 <tr>

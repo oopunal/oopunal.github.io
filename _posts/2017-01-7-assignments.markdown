@@ -20,7 +20,7 @@ Each week, students will have to resolve an assignment in order to apply and pra
 |7|[Object Concepts - Collections](https://drive.google.com/open?id=0B6uYBzkBeRiaVUUyaVJyVW1Ha2M)|21/03/2017|2/04/2017|4|[OOP0X] Assignments 07|
 |8|[Graphic User Interfaces (GUI)](https://drive.google.com/open?id=0B6uYBzkBeRiaNkp3LVJXSmFNSW8)|29/04/2017|10/05/2017|4|[OOP0X] Assignments 08|
 |9|Data Access Layer (DAL) |||4|[OOP0X] Assignments 09|
-|10|Exception Handling |||1|[OOP0X] Assignments 10|
+|10|[Exception Handling](https://drive.google.com/open?id=0B6uYBzkBeRiaU2I1Y0ZuNURteDg)|||1|[OOP0X] Assignments 10|
 |11|Threads|||1|[OOP0X] Assignments 11|
 
 Please read carefully the general rules for the delivery of assignments:
