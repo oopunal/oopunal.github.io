@@ -215,7 +215,7 @@ categories: main
 <td>15</td>
 <td>May 8</td>
 <td>May 9</td>
-<td>Threads</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNFhkMG11bzVlRWc">Threads</a></td>
 <td>Chapter 15 (Threads part) [Sierra]</td>
 </tr>
 <tr>
