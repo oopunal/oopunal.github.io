@@ -21,7 +21,7 @@ Each week, students will have to resolve an assignment in order to apply and pra
 |8|[Graphic User Interfaces (GUI)](https://drive.google.com/open?id=0B6uYBzkBeRiaNkp3LVJXSmFNSW8)|29/04/2017|14/05/2017|4|[OOP0X] Assignments 08|
 |9|Data Access Layer (DAL) |||4|[OOP0X] Assignments 09|
 |10|[Exception Handling](https://drive.google.com/open?id=0B6uYBzkBeRiaU2I1Y0ZuNURteDg)|||1|[OOP0X] Assignments 10|
-|11|Threads|||1|[OOP0X] Assignments 11|
+|11|[Threads](https://sites.google.com/site/oopunal20162/09A_Threads.pdf?attredirects=0&d=1)|||1|[OOP0X] Assignments 11|
 
 Please read carefully the general rules for the delivery of assignments:
 
