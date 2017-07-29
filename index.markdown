@@ -35,7 +35,7 @@ The aim of this course is to understand the paradigm of **Object Oriented Progra
 |Group|Hour|Monday|Tuesday|Wednesday|Thursday|Friday|
 ||:---:|:---:|:---:|:---:|:---:|:---:|
 |3|4-6 pm|401-103 PC | |401-103 PC| | |
-|9|2-4 pm| |401-303 PC| |401-204 PC| |
+|9|2-4 pm| |406-104 PC| |406-104 PC| |
 
 {% highlight java %}
 public static void printCourseInformation(){
@@ -44,10 +44,6 @@ public static void printCourseInformation(){
     System.out.println("Professor");
     System.out.println("Sebastian Alejandro Velasco Dimate");
     System.out.println("savelascod@unal.edu.co");
-    /********************************************/
-    System.out.println("Teacher Assistant");
-    System.out.println("Gabriel David Aguirre Arias");
-    System.out.println("gdaguirrea@unal.edu.co");
 }
 {% endhighlight %}
 

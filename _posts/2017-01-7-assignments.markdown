@@ -11,17 +11,17 @@ Each week, students will have to resolve an assignment in order to apply and pra
 
 |Number|Assignment|Date|Deadline|Teammates|Subject|
 |:---:|:---:|:---:|:---:|:---:|
-|1|[Basic programming review](https://drive.google.com/file/d/0B6uYBzkBeRiaSWdrdk1ueHo0WlE/view?usp=sharing)|5/02/2017|12/02/2017|4|[OOP0X] Assignments 01|
-|2|[Java Basics](https://drive.google.com/file/d/0B6uYBzkBeRiaSmdkbngxdUp0dGM/view?usp=sharing)|13/02/2017|19/02/2017|4|[OOP0X] Assignments 02|
-|3|[Objects & Classes](https://drive.google.com/file/d/0B6uYBzkBeRiaODNjajNrSVdXdkk/view?usp=sharing)|20/02/2017|26/02/2017|4|[OOP0X] Assignments 03|
-|4|[Objects Interaction](https://drive.google.com/file/d/0B6uYBzkBeRiaRnNGSEFkVXZPLTA/view?usp=sharing) |27/02/17|8/03/17|4|[OOP0X] Assignments 04|
-|5|[Relationships between objects](https://drive.google.com/open?id=0B6uYBzkBeRiaWE1Hd3NKdnlFc3c)|8/03/2017|17/03/2017|4|[OOP0X] Assignments 05|
-|6|Collections|null|null|1|[OOP0X] Assignments 06|
-|7|[Object Concepts - Collections](https://drive.google.com/open?id=0B6uYBzkBeRiaVUUyaVJyVW1Ha2M)|21/03/2017|2/04/2017|4|[OOP0X] Assignments 07|
-|8|[Graphic User Interfaces (GUI)](https://drive.google.com/open?id=0B6uYBzkBeRiaNkp3LVJXSmFNSW8)|29/04/2017|14/05/2017|4|[OOP0X] Assignments 08|
-|9|Data Access Layer (DAL) |||4|[OOP0X] Assignments 09|
-|10|[Exception Handling](https://drive.google.com/open?id=0B6uYBzkBeRiaU2I1Y0ZuNURteDg)|||1|[OOP0X] Assignments 10|
-|11|[Threads](https://sites.google.com/site/oopunal20162/09A_Threads.pdf?attredirects=0&d=1)|||1|[OOP0X] Assignments 11|
+|1|[Basic programming review]()|||2|[OOP0X] Assignments 01|
+|2|[Java Basics]()|||2|[OOP0X] Assignments 02|
+|3|[Objects & Classes]()|||4|[OOP0X] Assignments 03|
+|4|[Objects Interaction]() |||4|[OOP0X] Assignments 04|
+|5|[Relationships between objects]()|||4|[OOP0X] Assignments 05|
+|6|[Collections]()|||1|[OOP0X] Assignments 06|
+|7|[Object Concepts - Collections]()|||4|[OOP0X] Assignments 07|
+|8|[Graphic User Interfaces (GUI)]()|||4|[OOP0X] Assignments 08|
+|9|[Data Access Layer (DAL)]() |||4|[OOP0X] Assignments 09|
+|10|[Exception Handling]()|||1|[OOP0X] Assignments 10|
+|11|[Threads]()|||1|[OOP0X] Assignments 11|
 
 Please read carefully the general rules for the delivery of assignments:
 

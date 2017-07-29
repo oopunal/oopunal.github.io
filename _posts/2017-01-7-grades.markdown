@@ -19,5 +19,5 @@ categories: main
 
 #### Grades
 
-[Group 3](https://docs.google.com/spreadsheets/d/1u2y6dQFk9ZphWnegdCHpd2XuHRFq6Y6yd90zY4Q4jBU/edit?usp=sharing)
-[Group 9](https://docs.google.com/spreadsheets/d/1YwTDw3iPuF_-mxemuYoNH-PD_5BVVhxFLICOI3JvdWA/edit?usp=sharing)
+[Group 3]()
+[Group 9]()

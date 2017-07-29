@@ -17,244 +17,221 @@ categories: main
 </tr>
 <tr>
 <td>1</td>
-<td>January 30</td>
-<td>January 31 </td>
-<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaN0w2NS1KVGR5RnM/view?usp=sharing">Presentation</a></td>
+<td>July 31</td>
+<td>August 1 </td>
+<td>Presentation</td>
 <td></td>
 </tr>
 <tr>
 <td>1</td>
-<td>February 1</td>
-<td>February 2</td>
-<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaeE9Idmt0TlFWeUU/view?usp=sharing">Basic programming review</a></td>
+<td>August 2</td>
+<td>August 3</td>
+<td>Basic programming review</td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
-<td>February 6</td>
-<td>February 7</td>
-<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiaVkw2RVktdF9vTlk">Java Basics</a></td>
+<td>August 7</td>
+<td>August 8</td>
+<td>Java Basics</td>
 <td>Chapter 2 [Deitel]<br>Chapter 1 [Sierra]</td>
 </tr>
 <tr>
 <td>2</td>
-<td>February 8</td>
-<td>February 9</td>
-<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiad0lsS01JcGw0Mlk">Java Basics</a></td>
+<td>August 9</td>
+<td>August 10</td>
+<td>Java Basics</td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
-<td>February 13</td>
-<td>February 14</td>
-<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaZTA0VzA5WHNYVGM/view?usp=sharing">Objects &amp; Classes</a></td>
+<td>August 14</td>
+<td>August 15</td>
+<td>Objects &amp; Classes</td>
 <td>Chapter 3 [Barker]<br>Chapter 8 Section 8.1-8.8 [Deitel]</td>
 </tr>
 <tr>
 <td>3</td>
-<td>February 15</td>
-<td>February 16</td>
+<td>August 16</td>
+<td>August 17</td>
 <td>
-<a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaQWNYSGdqRDlzdUE/view?usp=sharing">Objects &amp; Classes</a>
-<a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaWWJrNkxKNU1nZVU/view?usp=sharing">Project Specification</a>
+Objects &amp; Classes<br>
+Project Specification
 </td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>February 20</td>
-<td>February 21</td>
-<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaVDdOdEFlWU5YQkk/view?usp=sharing">Objects Interaction</a></td>
+<td>August 21</td>
+<td>August 22</td>
+<td>Objects Interaction</td>
 <td>Chapter 4 [Barker]</td>
 </tr>
 <tr>
 <td>4</td>
-<td>February 22</td>
-<td>February 23</td>
-<td><a target="_blank" href="https://drive.google.com/file/d/0B6uYBzkBeRiaV1lBV1p4MU9nWFk/view?usp=sharing">Objects Interaction</a></td>
+<td>August 23</td>
+<td>August 24</td>
+<td>Objects Interaction</td>
 <td></td>
 </tr>
 <tr>
 <td>5</td>
-<td>February 27</td>
-<td>February 28</td>
-<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiaSE1iWUlYYTQ0cU0">Relationships between objects</a></td>
+<td>August 28</td>
+<td>August 29</td>
+<td>Relationships between objects</td>
 <td>Chapter 7 [Sierra]<br>Chapter 5 [Barker]</td>
 </tr>
 <tr>
 <td>5</td>
-<td>March 1</td>
-<td>March 2</td>
-<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiaeUhMR1RsVVIzX0U">Relationships between objects</a></td>
+<td>August 30</td>
+<td>August 31</td>
+<td>Relationships between objects</td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
-<td>March 6</td>
-<td>March 7</td>
-<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiabTQzYjViZlY2WEk">Collections</a></td>
+<td>September 4</td>
+<td>September 5</td>
+<td>Collections</td>
 <td>Chapter 6 [Barker]</td>
 </tr>
 <tr>
 <td>6</td>
-<td>March 8</td>
-<td>March 9</td>
-<td><a target="_blank" href="https://drive.google.com/open?id=0B6uYBzkBeRiaVWx0ZWRuZjV5Nk0">Collections</a>
-<a href="https://drive.google.com/open?id=0B6uYBzkBeRiac3EwN0lrdVFaejQ">PetStoreExample.zip</a>
-</td>
+<td>September 6</td>
+<td>September 7</td>
+<td>Collections</td>
 <td></td>
 </tr>
 <tr>
 <td>7</td>
-<td>March 13</td>
-<td>March 14</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaZElraUZHMWRHRGM" target="_blank">Object Concepts</a></td>
+<td>September 11</td>
+<td>September 12</td>
+<td>Object Concepts</td>
 <td>Chapter 7 [Barker]<br>Chapter 8 [Sierra]</td>
 </tr>
 <tr>
 <td>7</td>
-<td>March 15</td>
-<td>March 16</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzdnZUdlbk1COU0" target="_blank">Object Concepts</a></td>
+<td>September 13</td>
+<td>September 14</td>
+<td>Object Concepts</td>
 <td></td>
 </tr>
 <tr>
 <td>8</td>
-<td>March 20</td>
-<td>March 21</td>
-<td colspan="2"><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaRUFoWGlOYmRDWUU" target="_blank">Special Session (Exam Example)</a></td>
+<td>September 18</td>
+<td>September 19</td>
+<td colspan="2">University Week</td>
 </tr>
 <tr>
 <td>8</td>
-<td>March 22</td>
-<td>March 23</td>
+<td>September 20</td>
+<td>September 21</td>
+<td colspan="2">University Week</td>
+</tr>
+<tr>
+<td>9</td>
+<td>September 25</td>
+<td>September 26</td>
+<td colspan="2">Special Session</td>
+</tr>
+<tr>
+<td>9</td>
+<td>September 27</td>
+<td>September 28</td>
 <td colspan="2">First Exam</td>
 </tr>
 <tr>
-<td>9</td>
-<td>March 27</td>
-<td>March 28</td>
-<td colspan="2">First Project Iteration</td>
-</tr>
-<tr>
-<td>9</td>
-<td>March 29</td>
-<td>March 30</td>
+<td>10</td>
+<td>October 2</td>
+<td>October 3</td>
 <td colspan="2">First Project Iteration</td>
 </tr>
 <tr>
 <td>10</td>
-<td>April 3</td>
-<td>April 4</td>
+<td>October 4</td>
+<td>October 5</td>
+<td colspan="2">First Project Iteration</td>
+</tr>
+<tr>
+<td>11</td>
+<td>October 9</td>
+<td>October 10</td>
 <td>Graphic User Interfaces (GUI)</td>
-<td>Principles of a good GUI design<br>User interface design tips, techniques and principles.<br>Learning Swing with the NetBeans IDE</td>
-</tr>
-<tr>
-<td>10</td>
-<td>April 5</td>
-<td>April 6</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaY2xuaFQyRE0xYk0">Graphic User Interfaces (GUI)</a></td>
 <td>Chapter 11 [Deitell]</td>
 </tr>
 <tr>
 <td>11</td>
-<td>April 10</td>
-<td>April 11</td>
-<td colspan="2">Holy Week</td>
-</tr>
-<tr>
-<td>11</td>
-<td>April 12</td>
-<td>April 13</td>
-<td colspan="2">Holy Week</td>
-</tr>
-<tr>
-<td>12</td>
-<td>April 17</td>
-<td>April 18</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaY2xuaFQyRE0xYk0">Graphic User Interfaces (GUI)</a></td>
+<td>October 11</td>
+<td>October 12</td>
+<td>Graphic User Interfaces (GUI)</td>
 <td></td>
 </tr>
 <tr>
 <td>12</td>
-<td>April 19</td>
-<td>April 20</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzFESVE2S0V0ejA">Graphic User Interfaces (GUI)</a><br>
-<a href="https://drive.google.com/open?id=0B6uYBzkBeRiaaHE0RFV2WWFxSVk">Calculator Example</a></td>
+<td>October 16</td>
+<td>October 17</td>
+<td>Graphic User Interfaces (GUI)</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>October 18</td>
+<td>October 19</td>
+<td>Graphic User Interfaces (GUI)<br>
+Swing Components Examples</td>
 <td></td>
 </tr>
 <tr>
 <td>13</td>
-<td>April 24</td>
-<td>April 25</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzFESVE2S0V0ejA">Graphic User Interfaces (GUI)</a></td>
-<td>Chapter 12 [Deitel]</td>
-</tr>
-<tr>
-<td>13</td>
-<td>April 26</td>
-<td>April 27</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiacS1kVmVURmRyWEE">Data Access Layer (DAL)</a></td>
+<td>October 23</td>
+<td>October 24</td>
+<td>Data Access Layer (DAL)</td>
 <td>Chapter 14 [Sierra]</td>
 </tr>
 <tr>
-<td>14</td>
-<td>May 1</td>
-<td>May 2</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaa21WQjhXOXV1blk">Exception Handling</a></td>
-<td>Chapter 13 [Deitel]</td>
+<td>13</td>
+<td>October 25</td>
+<td>October 26</td>
+<td>Exception Handling</td>
+<td>Chapter 13 [Deitel] </td>
 </tr>
 <tr>
 <td>14</td>
-<td>May 3</td>
-<td>May 4</td>
+<td>October 30</td>
+<td>October 31</td>
 <td>Exception Handling</td>
 <td></td>
 </tr>
 <tr>
-<td>15</td>
-<td>May 8</td>
-<td>May 9</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNFhkMG11bzVlRWc">Threads</a></td>
-<td>Chapter 15 (Threads part) [Sierra]</td>
-</tr>
-<tr>
-<td>15</td>
-<td>May 10</td>
-<td>May 11</td>
+<td>14</td>
+<td>November 1</td>
+<td>November 2</td>
 <td>Threads</td>
-<td></td>
+<td>Chapter 15 (Threads part) [Sierra] </td>
 </tr>
 <tr>
-<td>16</td>
-<td>May 15</td>
-<td>May 16</td>
+<td>15</td>
+<td>November 6</td>
+<td>November 7</td>
 <td colspan="2">Special Session</td>
 </tr>
 <tr>
-<td>16</td>
-<td>May 17</td>
-<td>May 18</td>
+<td>15</td>
+<td>November 8</td>
+<td>November 9</td>
 <td colspan="2">Second Exam</td>
 </tr>
 <tr>
-<td>17</td>
-<td>May 22</td>
-<td>May 23</td>
+<td>16</td>
+<td>November 13</td>
+<td>November 14</td>
 <td colspan="2">Second Project Iteration</td>
 </tr>
 <tr>
-<td>17</td>
-<td>May 24</td>
-<td>May 25</td>
+<td>16</td>
+<td>November 15</td>
+<td>November 16</td>
 <td colspan="2">Second Project Iteration</td>
-</tr>
-<tr>
-<td>18</td>
-<td>May 29</td>
-<td>May 30</td>
-<td>Design Patterns Introduction</td>
-<td>Appendix P. [Deitel]</td>
 </tr>
 </table>
 
