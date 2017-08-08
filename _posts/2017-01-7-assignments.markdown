@@ -11,8 +11,8 @@ Each week, students will have to resolve an assignment in order to apply and pra
 
 |Number|Assignment|Date|Deadline|Teammates|Subject|
 |:---:|:---:|:---:|:---:|:---:|
-|1|[Basic programming review]()|||2|[OOP0X] Assignments 01|
-|2|[Java Basics]()|||2|[OOP0X] Assignments 02|
+|1|[Basic programming review](https://drive.google.com/open?id=0B6uYBzkBeRiaWkk2QlhNVnJQZkE)|||2|[OOP0X] Assignments 01|
+|2|[Java Basics]()|8/August|15/August|2|[OOP0X] Assignments 02|
 |3|[Objects & Classes]()|||4|[OOP0X] Assignments 03|
 |4|[Objects Interaction]() |||4|[OOP0X] Assignments 04|
 |5|[Relationships between objects]()|||4|[OOP0X] Assignments 05|

@@ -26,14 +26,14 @@ categories: main
 <td>1</td>
 <td>August 2</td>
 <td>August 3</td>
-<td>Basic programming review</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaeE9Idmt0TlFWeUU">Basic programming review</a></td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>August 7</td>
 <td>August 8</td>
-<td>Java Basics</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaVkw2RVktdF9vTlk">Java Basics</a></td>
 <td>Chapter 2 [Deitel]<br>Chapter 1 [Sierra]</td>
 </tr>
 <tr>
