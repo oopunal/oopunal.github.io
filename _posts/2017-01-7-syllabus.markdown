@@ -40,14 +40,14 @@ categories: main
 <td>2</td>
 <td>August 9</td>
 <td>August 10</td>
-<td>Java Basics</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiad0lsS01JcGw0Mlk">Java Basics</a></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>August 14</td>
 <td>August 15</td>
-<td>Objects &amp; Classes</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaZTA0VzA5WHNYVGM">Objects &amp; Classes</a></td>
 <td>Chapter 3 [Barker]<br>Chapter 8 Section 8.1-8.8 [Deitel]</td>
 </tr>
 <tr>
