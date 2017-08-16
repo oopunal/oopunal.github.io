@@ -55,8 +55,8 @@ categories: main
 <td>August 16</td>
 <td>August 17</td>
 <td>
-Objects &amp; Classes<br>
-Project Specification
+<a href="https://drive.google.com/open?id=0B6uYBzkBeRiaQWNYSGdqRDlzdUE">Objects &amp; Classes</a><br>
+<a href="https://drive.google.com/open?id=0B6uYBzkBeRiaWWJrNkxKNU1nZVU">Project Specification</a>
 </td>
 <td></td>
 </tr>
