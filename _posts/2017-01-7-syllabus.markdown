@@ -71,7 +71,7 @@ categories: main
 <td>4</td>
 <td>August 23</td>
 <td>August 24</td>
-<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaV1lBV1p4MU9nWFk">Objects Interaction</a>/td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaV1lBV1p4MU9nWFk">Objects Interaction</a></td>
 <td></td>
 </tr>
 <tr>

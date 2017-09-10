@@ -15,7 +15,7 @@ Each week, students will have to resolve an assignment in order to apply and pra
 |2|[Java Basics]|null|null|2|[OOP0X] Assignments 02|
 |3|[Objects & Classes](https://drive.google.com/open?id=0B6uYBzkBeRiaM1V0V0MzOXZmRFU)|22/August|30/August|4|[OOP0X] Assignments 03|
 |4|[Objects Interaction]|||4|[OOP0X] Assignments 04|
-|5|[Relationships between objects]|||4|[OOP0X] Assignments 05|
+|5|[Relationships between objects](https://drive.google.com/open?id=0B6uYBzkBeRiaTzJhNlZlN1FpUEE)|10/September|17/September|4|[OOP0X] Assignments 05|
 |6|[Collections]|||1|[OOP0X] Assignments 06|
 |7|[Object Concepts - Collections]|||4|[OOP0X] Assignments 07|
 |8|[Graphic User Interfaces (GUI)]|||4|[OOP0X] Assignments 08|
