@@ -92,14 +92,14 @@ categories: main
 <td>6</td>
 <td>September 4</td>
 <td>September 5</td>
-<td>Collections</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiabTQzYjViZlY2WEk">Collections</a></td>
 <td>Chapter 6 [Barker]</td>
 </tr>
 <tr>
 <td>6</td>
 <td>September 6</td>
 <td>September 7</td>
-<td>Collections</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaVWx0ZWRuZjV5Nk0">Collections</a></td>
 <td></td>
 </tr>
 <tr>
