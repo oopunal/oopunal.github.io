@@ -106,14 +106,14 @@ categories: main
 <td>7</td>
 <td>September 11</td>
 <td>September 12</td>
-<td>Object Concepts</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaZElraUZHMWRHRGM">Object Concepts</a></td>
 <td>Chapter 7 [Barker]<br>Chapter 8 [Sierra]</td>
 </tr>
 <tr>
 <td>7</td>
 <td>September 13</td>
 <td>September 14</td>
-<td>Object Concepts</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzdnZUdlbk1COU0">Object Concepts</a></td>
 <td></td>
 </tr>
 <tr>
