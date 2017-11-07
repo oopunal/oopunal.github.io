@@ -156,21 +156,21 @@ categories: main
 <td>11</td>
 <td>October 9</td>
 <td>October 10</td>
-<td>Graphic User Interfaces (GUI)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiacU44czBMY191bUU">Graphic User Interfaces (GUI)</a></td>
 <td>Chapter 11 [Deitell]</td>
 </tr>
 <tr>
 <td>11</td>
 <td>October 11</td>
 <td>October 12</td>
-<td>Graphic User Interfaces (GUI)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaY2xuaFQyRE0xYk0">Graphic User Interfaces (GUI)</a></td>
 <td></td>
 </tr>
 <tr>
 <td>12</td>
 <td>October 16</td>
 <td>October 17</td>
-<td>Graphic User Interfaces (GUI)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaNzFESVE2S0V0ejA">Graphic User Interfaces (GUI)</a></td>
 <td></td>
 </tr>
 <tr>
@@ -185,14 +185,14 @@ Swing Components Examples</td>
 <td>13</td>
 <td>October 23</td>
 <td>October 24</td>
-<td>Data Access Layer (DAL)</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiacS1kVmVURmRyWEE">Data Access Layer (DAL)</a></td>
 <td>Chapter 14 [Sierra]</td>
 </tr>
 <tr>
 <td>13</td>
 <td>October 25</td>
 <td>October 26</td>
-<td>Exception Handling</td>
+<td><a href="https://drive.google.com/open?id=0B6uYBzkBeRiaa21WQjhXOXV1blk">Exception Handling</a></td>
 <td>Chapter 13 [Deitel] </td>
 </tr>
 <tr>

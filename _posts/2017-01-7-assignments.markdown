@@ -16,11 +16,11 @@ Each week, students will have to resolve an assignment in order to apply and pra
 |3|[Objects & Classes](https://drive.google.com/open?id=0B6uYBzkBeRiaM1V0V0MzOXZmRFU)|22/August|30/August|4|[OOP0X] Assignments 03|
 |4|[Objects Interaction]|null|null|4|[OOP0X] Assignments 04|
 |5|[Relationships between objects](https://drive.google.com/open?id=0B6uYBzkBeRiaTzJhNlZlN1FpUEE)|10/September|20/September|4|[OOP0X] Assignments 05|
-|6|[Collections]|||1|[OOP0X] Assignments 06|
-|7|[Object Concepts - Collections]|||4|[OOP0X] Assignments 07|
-|8|[Graphic User Interfaces (GUI)]|||4|[OOP0X] Assignments 08|
-|9|[Data Access Layer (DAL)] |||4|[OOP0X] Assignments 09|
-|10|[Exception Handling]|||1|[OOP0X] Assignments 10|
+|6|[Collections]|null|null|1|[OOP0X] Assignments 06|
+|7|[Object Concepts - Collections]|null|null|4|[OOP0X] Assignments 07|
+|8|[Graphic User Interfaces (GUI)](https://drive.google.com/open?id=1wdnvQhEIm06Xb3MqEjCHnoGCfakvh5Bx)|7/November|20/November|4|[OOP0X] Assignments 08|
+|9|[Data Access Layer (DAL)](https://drive.google.com/open?id=19NtF2TUDQAPMYyaShBwFIW6IyygNHHA4)|7/November|13/November|4|[OOP0X] Assignments 09|
+|10|[Exception Handling](https://drive.google.com/open?id=1BbrztK8g87qvgCJCmphrvQcMkTWn6mJw)|||1|[OOP0X] Assignments 10|
 |11|[Threads]|||1|[OOP0X] Assignments 11|
 
 Please read carefully the general rules for the delivery of assignments:
